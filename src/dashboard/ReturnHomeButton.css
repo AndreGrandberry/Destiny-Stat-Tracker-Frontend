@@ -1,0 +1,16 @@
+.return-home-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: transparent; /* Remove the background color */
+    color: #fff;
+    text-decoration: none;
+    border: 2px solid #fff; /* Add a white border */
+    border-radius: 5px;
+  }
+  
+  .return-home-button:hover {
+   color: salmon; /* Add a transparent white background on hover */
+  }
+  
