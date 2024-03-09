@@ -27,4 +27,6 @@ This is my first MAJOR full stack coding project and I am proud of how it turned
 
 aesthetic fashion. Upon authorizing with Bungie.net, users are directed to the webpage where they can scroll through over 200 different
 
-stats for their Destiny 2 account. Please enjoy. Feedback is welcomed.
+stats for their Destiny 2 account. Please enjoy. Feedback is welcomed. The frontend here was created using React through Create React App and the backend was 
+
+created using NodeJs, RedisStore, and PostgreSQL
